@@ -1,0 +1,44 @@
+[
+    {
+    "title": "Title 1",
+    "description": "This is the first similar title",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+},
+{
+    "title": "Title 2",
+    "description": " fd fg eg erg erf erg er fer ger f ergv ht5 bh tvcg t vh5t cgt5 vh 5trv 5th 5t gc5t gv 5tgc 5z vh 5zc5 vh, h5 fh5 h 5zv hz5 bvh6 zv h5zv hz5 f ht5v hz6 hg z5 gf t ghz 6b hv zv gtr hzbh zv5v t5g fh z6g hz5 f5t d 5tf hz hz5gt t5 gf d gtf tzh gtrzh ztg hzf gtzhg ztf zh  tzh tzhgzthftzfh zh6g hztfhzgh zgfhz6gh6z fz6hzh6fhz6h",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+},
+{
+    "title": "Title 3",
+    "description": "This is the third similar title",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+},
+{
+    "title": "Title 4",
+    "description": "This is the fourth similar title",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+},
+{
+    "title": "Title 5",
+    "description": "This is the fifth similar title",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+},
+{
+    "title": "Title 6",
+    "description": "This is the sixth similar title",
+    "thumbnail": "test-thumbnail.jpg",
+    "year": 2021,
+    "age-rating": 12
+}
+]

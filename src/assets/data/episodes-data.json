@@ -1,0 +1,30 @@
+[
+    {
+    "episodeId": 1,
+    "title": "Episode 1",
+    "description": "This is the first episode",
+    "thumbnail": "test-thumbnail.jpg",
+    "duration": 45
+},
+{
+    "episodeId": 2,
+    "title": "Episode 2",
+    "description": "This is the second episode",
+    "thumbnail": "test-thumbnail.jpg",
+    "duration": 69
+},
+{
+    "episodeId": 3,
+    "title": "Episode 3",
+    "description": "This is the third episode",
+    "thumbnail": "test-thumbnail.jpg",
+    "duration": 55
+},
+{
+    "episodeId": 4,
+    "title": "Episode 4",
+    "description": "This is the fourth episode",
+    "thumbnail": "test-thumbnail.jpg",
+    "duration": 54
+}
+]
